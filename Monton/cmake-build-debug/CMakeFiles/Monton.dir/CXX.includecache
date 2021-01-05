@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/Excepcion.h
+cstring
+-
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/MontonMax.h
+iostream
+-
+cmath
+-
+Excepcion.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/Excepcion.h
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/MontonMin.h
+iostream
+-
+cmath
+-
+Excepcion.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/Excepcion.h
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/main.cpp
+iostream
+-
+cstdlib
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/cstdlib
+ctime
+-
+MontonMin.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/MontonMin.h
+MontonMax.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Monton/MontonMax.h
+
