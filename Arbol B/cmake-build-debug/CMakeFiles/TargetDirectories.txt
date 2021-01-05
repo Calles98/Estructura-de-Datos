@@ -1,0 +1,3 @@
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Arbol B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Arbol B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Arbol B/cmake-build-debug/CMakeFiles/Arbol_B.dir
